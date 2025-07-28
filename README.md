@@ -13,4 +13,4 @@ Please run the `TnT.ipynb` Jupyter Notebook to evaluate the TnT artifacts
 
 # Pre-train flower GAN
 
-To start tuning TnT, please download the pre-trained flower GAN model from the following [link](https://drive.google.com/file/d/1_58H3RZ4NdztUS8MOUj3uk6dTkXUfGY7/view?usp=share_link)
+To start tuning TnT, please download the pre-trained flower GAN model from the following [link](https://drive.google.com/file/d/1etVNk5GU2Ux4uclKzSwqujGvAAzY5_pC/view?usp=share_link)
